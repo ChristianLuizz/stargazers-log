@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Repo One",
+        "url": "https://github.com/user/repo-one",
+        "description": "This is the first starred repository.",
+        "language": "JavaScript"
+    },
+    {
+        "name": "Repo Two",
+        "url": "https://github.com/user/repo-two",
+        "description": "This is the second starred repository.",
+        "language": "Python"
+    },
+    {
+        "name": "Repo Three",
+        "url": "https://github.com/user/repo-three",
+        "description": "This is the third starred repository.",
+        "language": "Java"
+    }
+]
